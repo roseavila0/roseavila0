@@ -17,17 +17,17 @@ Me estoy formando en herramientas como **Node.js**, **Express**, **JavaScript**,
 
 ---
 
-# Actualmente aprendiendo...
+ Actualmente aprendiendo...
 - Backend con Node.js, Express y TypeScript
 - Pruebas de API con Postman
 - Buenas prácticas de desarrollo y control de versiones con Git
 
-# Experiencia previa
+ Experiencia previa
 - Producción audiovisual, fotografía e ilustración
 - Gestión de proyectos culturales y visuales
 - Formación académica en artes visuales y medios digitales
 
-# Me interesa colaborar en...
+ Me interesa colaborar en...
 - Proyectos que conecten arte y tecnología
 - Aplicaciones con impacto social, educativo o cultural
 - Equipos que valoren tanto la lógica como la creatividad
@@ -42,10 +42,10 @@ Me estoy formando en herramientas como **Node.js**, **Express**, **JavaScript**,
 
 ✨ *Estoy en construcción constante. Si decides darme una oportunidad, prometo que voy a dar lo mejor de mí.*
 
-
-
-
-
+---
+---
+---
+---
 ---
 
 ## About me (EN)
