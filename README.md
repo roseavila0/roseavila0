@@ -35,7 +35,7 @@ Me estoy formando en herramientas como **Node.js**, **Express**, **JavaScript**,
 ---
 
 📫 **Contacto directo**: rosa.avilacaliz@gmail.com  
-🔗 Portafolio artístico ([https://tu-link-aquí.com](https://linktr.ee/rosedj?fbclid=PAZXh0bgNhZW0CMTEAAafXels-HvfddvAUVC6-V8msKgUkLBx_VIhjX8J9PX0i_XjP86pJUcg9-t8FDg_aem_kBxZBBaLUoAUjaB2CCWVHQ))  
+🔗 Portafolio artístico (https://linktr.ee/rosedj?fbclid=PAZXh0bgNhZW0CMTEAAafXels-HvfddvAUVC6-V8msKgUkLBx_VIhjX8J9PX0i_XjP86pJUcg9-t8FDg_aem_kBxZBBaLUoAUjaB2CCWVHQ)
 🐙 GitHub: github.com/roseavila0  
 
 ---
@@ -81,7 +81,7 @@ Teams that value both logic and creativity
 ---
 
 📫 Direct contact: rosa.avilacaliz@gmail.com
-🔗 Artistic Portfolio ([https://tu-link-aquí.com](https://linktr.ee/rosedj?fbclid=PAZXh0bgNhZW0CMTEAAafXels-HvfddvAUVC6-V8msKgUkLBx_VIhjX8J9PX0i_XjP86pJUcg9-t8FDg_aem_kBxZBBaLUoAUjaB2CCWVHQ)) 
+🔗 Artistic Portfolio (https://linktr.ee/rosedj?fbclid=PAZXh0bgNhZW0CMTEAAafXels-HvfddvAUVC6-V8msKgUkLBx_VIhjX8J9PX0i_XjP86pJUcg9-t8FDg_aem_kBxZBBaLUoAUjaB2CCWVHQ)
 🐙 GitHub: github.com/roseavila0
 
 ---
