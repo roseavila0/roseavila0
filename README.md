@@ -42,11 +42,15 @@ Me estoy formando en herramientas como **Node.js**, **Express**, **JavaScript**,
 
 ✨ *Estoy en construcción constante. Si decides darme una oportunidad, prometo que voy a dar lo mejor de mí.*
 
+
+
+
+
 ---
----
----
----
----
+
+
+
+
 
 ## About me (EN)
 
