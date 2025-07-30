@@ -11,7 +11,7 @@
 
 ✨ Hola, soy Rose 
 
-Soy artista visual y productora audiovisual en transición hacia el desarrollo backend. Vengo del mundo de la creación visual y cultural, y ahora estoy aprendiendo a construir desde el código.
+Artista visual en transición hacia el desarrollo backend. Vengo del mundo de la creación visual y cultural, y ahora estoy aprendiendo a construir desde el código.
 
 Me estoy formando en herramientas como **Node.js**, **Express**, **JavaScript**, **TypeScript**, y conceptos fundamentales como **Programación Orientada a Objetos**, **APIs REST** y operaciones **CRUD**. Me gusta abordar los proyectos con sensibilidad estética, pensamiento estructurado y una fuerte orientación a lo interdisciplinario.
 
@@ -55,7 +55,7 @@ Me estoy formando en herramientas como **Node.js**, **Express**, **JavaScript**,
 ## About me (EN)
 
 ✨ Hi, I’m Rose
-I’m a visual artist and audiovisual producer currently transitioning into backend development. I come from the world of visual and cultural creation, and now I’m learning to build things from code.
+I’m a visual artist currently transitioning into backend development. I come from the world of visual and cultural creation, and now I’m learning to build things from code.
 
 I’m training with tools like Node.js, Express, JavaScript, TypeScript, and core concepts such as Object-Oriented Programming, REST APIs, and CRUD operations. I enjoy approaching projects with an aesthetic sensitivity, structured thinking, and a strong interdisciplinary mindset.
 
